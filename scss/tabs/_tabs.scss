@@ -1,0 +1,91 @@
+#tabs{
+    background-color: rgb(255, 255, 255);
+    padding: 30px 0 0 0;
+}
+
+#nav-links{
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 40px;
+    background-color: #850000;
+    margin: 0 6px;
+}
+
+#head_text{
+    font-weight: 700;
+    color:black;
+}
+
+.nav-link.active{
+    border: #850000 solid !important;
+    background-color: #fff !important;
+    color: #850000 !important;
+}
+
+#age{
+    border: #850000 solid 2px;
+    border-radius: 90px;
+    font-size: 12px;
+    padding: 2px 2px 2px 2px !important;
+    font-family: "Montserrat", sans-serif;
+}
+
+#main{
+    font-size: 17px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 0 !important;
+}
+
+#main_text{
+    font-size: 11px;
+    font-family: "Montserrat", sans-serif;
+    color: rgb(186, 186, 186) !important;
+    padding: 9px 0 9px 0;
+
+}
+
+
+#but{
+    color:white;
+  
+    border-radius: 10px;
+    font-size: 10px;
+    background-color:#850000;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+
+#but1{
+    color:#850000;
+  
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 600;
+    background-color:white;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+#but:hover{
+    background-color: #fff;
+    font-weight: 600;
+    color:#850000;
+}
+
+
+#cardbody_radius{
+    border-radius:0 0 15px 15px;
+    border: none !important;
+    
+}
+#img_radius{
+    border-radius: 150px 150px 0 0;
+    border: none !important;
+}
+
+.card{
+    border:none !important;
+}

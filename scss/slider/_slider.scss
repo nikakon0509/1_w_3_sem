@@ -1,0 +1,23 @@
+.c-item{
+    height: 530px;
+}
+
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.5);
+}
+
+.carousel-item .carousel-caption .btn{
+    background-color: #850000;
+    border:none;
+}
+
+#modal-di{
+    margin-top: 40px !important;
+}
+
+#modal-b{
+    padding-top: 30px;
+}

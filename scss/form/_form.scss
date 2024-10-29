@@ -1,0 +1,21 @@
+.bgcolor{
+    background-color:rgb(199, 199, 199);
+    max-width: 1260px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+    border-radius: 40px;
+    margin-bottom: 60px;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+#color_btn{
+    background-color: #850000 !important;
+    color: white;
+}

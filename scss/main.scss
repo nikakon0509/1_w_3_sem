@@ -1,0 +1,18 @@
+@import "navbar/navbar";
+@import "body/body";
+@import "slider/slider";
+@import "promez_text/promez_text";
+@import "cards/cards";
+@import "form/form";
+@import "news/news";
+@import "line/line";
+@import "email/email";
+@import "tabs/tabs";
+@import "footer/footer";
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(/font/Montserrat-Medium.otf);
+    src: url(/font/Montserrat-Bold.otf);
+    src: url(/font/Montserrat-Light.otf);
+}

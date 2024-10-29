@@ -1,0 +1,36 @@
+#contact{
+    background-color: #2c1f13;
+    padding: 30px 0;
+
+    background: url("/image/theater.jpg");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+   
+}
+
+#contact .span .custom-tooltip-class{
+    --bs-tooltip-bg: var(--bs-primary);
+}
+
+//#0a2d56
+#bgc_button{
+    background-color: #850000;
+    border-radius: 10px;
+    
+}
+
+#bgc_form{
+    background-color: rgba(255,255,255,0.2);
+    border: none;
+    border-radius: 50px;
+    padding: 30px 10px 10px 10px;
+}
+
+#quest{
+    background-color:#850000 ;
+    padding: 8px 15px;
+    border-radius: 10px;
+    justify-content: center;
+}
